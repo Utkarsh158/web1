@@ -17,7 +17,7 @@ const Services = () => {
     <>
       <Navbar />
       <section className='section'>
-            <p>Hellooo</p>
+            <p>Hello</p>
             <h1>Welcome to <br /> Services Page</h1>
         </section>
     </>
